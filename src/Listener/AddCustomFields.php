@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\CustomFields\Listener;
+namespace PriPPP\CustomFields\Listener;
 
 use Flarum\Discussion\Event\Saving;
 use Illuminate\Contracts\Events\Dispatcher;

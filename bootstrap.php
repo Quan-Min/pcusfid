@@ -1,7 +1,7 @@
 <?php
 
 use Flarum\Extend;
-use YourNamespace\CustomFields\Listener\AddCustomFields;
+use PriPPP\CustomFields\Listener\AddCustomFields;
 
 return [
     (new Extend\Listeners())

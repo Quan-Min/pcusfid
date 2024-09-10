@@ -1,5 +1,5 @@
 {
-    "name": "yourname/custom-fields",
+    "name": "prippp/custom-fields",
     "description": "A Flarum extension to add custom fields to discussions.",
     "type": "flarum-extension",
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YourNamespace\\CustomFields\\": "src/"
+            "PriPPP\\CustomFields\\": "src/"
         }
     },
     "extra": {

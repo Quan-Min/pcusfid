@@ -1,8 +1,8 @@
 <?php
 
 use Flarum\Extend;
-use YourNamespace\CustomFields\Controller\CreateDiscussionController;
-use YourNamespace\CustomFields\Listener\AddCustomFields;
+use PriPPP\CustomFields\Controller\CreateDiscussionController;
+use PriPPP\CustomFields\Listener\AddCustomFields;
 use Flarum\Api\Serializer\DiscussionSerializer;
 use Flarum\Api\Serializer\PostSerializer;
 use Flarum\Discussion\Event\Saving as DiscussionSaving;

@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\CustomFields\Controller;
+namespace PriPPP\CustomFields\Controller;
 
 use Flarum\Api\Controller\AbstractCreateController;
 use Flarum\Discussion\Discussion;

@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\CustomFields\Serializer;
+namespace PriPPP\CustomFields\Serializer;
 
 use Flarum\Api\Serializer\DiscussionSerializer;
 
