@@ -1,6 +1,6 @@
 {
-    "name": "prippp/custom-fields",
-    "description": "A Flarum extension to add custom fields to discussions.",
+    "name": "prippp/ccff",
+    "description": "",
     "type": "flarum-extension",
     "license": "MIT",
     "authors": [
