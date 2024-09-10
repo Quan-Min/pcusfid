@@ -1,5 +1,5 @@
 {
-    "name": "prippp/ccff",
+    "name": "prippp/custom-fields",
     "description": "",
     "type": "flarum-extension",
     "license": "MIT",
@@ -19,7 +19,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Custom Fields",
+            "title": "P Custom F",
             "icon": {
                 "name": "fas fa-plus-circle",
                 "backgroundColor": "#333",
