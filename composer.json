@@ -1,0 +1,30 @@
+{
+    "name": "yourname/custom-fields",
+    "description": "A Flarum extension to add custom fields to discussions.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\CustomFields\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Custom Fields",
+            "icon": {
+                "name": "fas fa-plus-circle",
+                "backgroundColor": "#333",
+                "color": "#fff"
+            }
+        }
+    }
+}
